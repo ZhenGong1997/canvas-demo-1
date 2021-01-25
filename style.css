@@ -6,6 +6,8 @@
 
 #canvas{
     /* 整个屏幕高 view port height */
-    height:100vh;
-    border:1px solid red;
+    /* height:100vh;
+    width:100vw; */
+    /* border:1px solid red; */
+    display: block;
 }
